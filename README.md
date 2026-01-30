@@ -44,4 +44,6 @@ Implementacja aplikacji iOS demonstrującej:
 
 1. Uruchom aplikację Lab1-iOS
 2. W polu **Login** wprowadź:
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/af2d3ddf-cb4d-4a85-92ff-855d9692f469" />
+
 <img width="459" height="984" alt="image" src="https://github.com/user-attachments/assets/00469312-b371-4c04-8e1b-73abbec9f8e2" />
